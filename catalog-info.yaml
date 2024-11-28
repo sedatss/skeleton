@@ -6,3 +6,5 @@ spec:
   type: service
   owner: user:guest
   lifecycle: experimental
+annotations:
+  backstage.io/techdocs-ref: dir:.

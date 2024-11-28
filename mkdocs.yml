@@ -1,0 +1,8 @@
+site_name: {{ cookiecutter.name | lower }}
+site_description: {{ cookiecutter.name | lower }} " documentation"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
